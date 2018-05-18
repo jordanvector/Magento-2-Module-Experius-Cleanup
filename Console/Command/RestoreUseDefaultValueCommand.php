@@ -1,5 +1,5 @@
 <?php
-namespace Experius\Cleanup\Console\Command;
+namespace Jordanvector\Cleanup\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
